@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-05T05:16:16.311Z</updated>
+  <updated>2019-07-11T09:43:17.817Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片测试</title>
+    <link href="http://yoursite.com/2019/07/11/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2019/07/11/图片测试/</id>
+    <published>2019-07-11T09:41:38.000Z</published>
+    <updated>2019-07-11T09:43:17.817Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="C:%5CUsers%5CLZH%5CDesktop%5Chexo%5Csource_posts%5Cspringboot%E5%AD%A6%E4%B9%A0%5Cimages%5C01.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;C:%5CUsers%5CLZH%5CDesktop%5Chexo%5Csource_posts%5Cspringboot%E5%AD%A6%E4%B9%A0%5Cimages%5C01.jpg&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="图片" scheme="http://yoursite.com/tags/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
   
   <entry>
     <title>spring或者springboot中比较常见的注解</title>
